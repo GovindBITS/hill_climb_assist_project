@@ -1,3 +1,13 @@
+/*
+ File: src/main.cpp
+ Brief: Hill-climb assist firmware for STM32 BlackPill interfacing IMU, OLED, TB6612FNG motor driver, brake servos, and ESP32 bridge.
+ Project: Hill Climb Assist Platform
+ Author: Govind S Warrier
+ Student ID: 2025NS01140
+ Institution: BITS Pilani
+ Date: 2025-03-11
+*/
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
