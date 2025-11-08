@@ -132,3 +132,5 @@ After flashing, connect your laptop to the `HillAssist-ESP32` Wi-Fi network and 
 * **IMU missing/OLED blank** – Verify PB7/PB8 and PB3/PB10 wiring and pull the STM32’s reset if the IMU cube fails to probe.
 
 ---
+
+
